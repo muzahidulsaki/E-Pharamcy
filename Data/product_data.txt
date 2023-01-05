@@ -1,0 +1,35 @@
+Name : trip
+Mg/ml : 100 mg
+Price : 2.50
+Time & Date : 14:48 PM, 25/12/2022
+===============================================
+Name : napa extend
+Mg/ml : 10 mg
+Price : 1.50
+Time & Date : 15:12 PM, 25/12/2022
+===============================================
+Name : penvik ds
+Mg/ml : 10 mg
+Price : 5.50
+Time & Date : 15:24 PM, 25/12/2022
+===============================================
+Name : progut
+Mg/ml : 20 mg
+Price : 8.00
+Time & Date : 15:43 PM, 25/12/2022
+===============================================
+Name : alcet
+Mg/ml : 5 mg
+Price : 2.00
+Time & Date : 15:45 PM, 25/12/2022
+===============================================
+#Removed! Name : histamin 
+#Removed! Mg/ml : 100
+#Removed! Price : 5
+#Removed! Time & Date : 20:40 PM, 25/12/2022
+#Removed! ===============================================
+Name : text
+Mg/ml : 10 mg
+Price : 5.00
+Time & Date : 13:17 PM, 26/12/2022
+===============================================
